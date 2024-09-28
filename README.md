@@ -1,6 +1,6 @@
 # CardioSeg-Automated-Echocardiogram-Abnormality-Detection
 
-Echocardiography is a painless ultrasound test that provides detailed images of the heart, helping doctors assess its health and performance. It provides real-time visualization of the heart's anatomy and motion, enabling the detection of various cardiac abnormalities such as valvular defects, myocardial infarctions, cardiomyopathies, and congenital heart diseases.
+Echocardiography is an ultrasound test widely used to assess cardiac structure and function. It provides real-time visualization of the heart's anatomy and motion, enabling the detection of various cardiac abnormalities such as valvular defects, myocardial infarctions, cardiomyopathies, and congenital heart diseases.
 To address these challenges, the objective is to develop an automated deep learning-based model that processes echocardiogram videos and outputs annotated videos highlighting regions of cardiac abnormalities through precise segmentation. This tool aims to assist clinicians by:
   .Enhancing diagnostic accuracy and consistency.
   .Reducing the time required for echocardiogram analysis.
